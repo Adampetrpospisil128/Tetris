@@ -1,6 +1,7 @@
 # Console Tetris (C#)
 
 A classic Tetris implementation built entirely in pure C# (.NET 10) as a console application with clean object-oriented architecture and zero external dependencies.
+<img width="2604" height="1063" alt="Animation" src="https://github.com/user-attachments/assets/6b905cf8-58b0-43f6-9c5b-c182d13c18d7" />
 
 ## Features
 - **7-Bag Randomizer:** Uses a Fisher-Yates shuffle to guarantee fair piece distribution without long droughts.
